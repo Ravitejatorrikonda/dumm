@@ -1,0 +1,9 @@
+package com.test;
+
+public class Example1 {
+
+	public static void main(String[] args) {
+               System.out.println("This is sample project to sen ionto github ");
+	}
+
+}
